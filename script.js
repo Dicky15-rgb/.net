@@ -1,5 +1,5 @@
 
-const API_URL = 'https://bukaolshop.net/api/v1/produk';
+const API_URL = 'https://kingstore56.olshopku.com/api/v1/produk';
 const API_KEY = 'ZVBOUk9zczB2cFlmekJwb3pHZDBSV2VsQWhFd09HcWl2QXNrNWprUW13czBrdVZJalhCbzVjYllyRVdEK24rMmV4VFUzNnY4eGU0TzBCUk1MMDNyNlQwVDNReFNWb2JxTTFzbG1ma1pZRTd5bVdTN2xLVEZ6STlRcldwZGVSd1h5UW9UMFRjcTZOeVRWbG5ZUnJSQUsvMFdIVnNpdSt2QmJLVFJjQkQ0cHdML0txQjhpa0taZ1BTYUU5TEZNTHRw'; // Ganti dengan API Key asli
 
 fetch(API_URL, {
