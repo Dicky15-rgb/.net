@@ -1,6 +1,6 @@
 
 const API_URL = 'https://bukaolshop.net/api/v1/produk';
-const API_KEY = 'API_KEY_ANDA'; // Ganti dengan API Key asli
+const API_KEY = 'eyJhcHAiOiIxNzQ4MDciLCJhdXRoIjoiMjAyNTA2MDciLCJzaWduIjoicSswd0lQTmxGbFpuZ0tkUW9MMUJmdz09In0='; // Ganti dengan API Key asli
 
 fetch(API_URL, {
   headers: {
